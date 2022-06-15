@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a {display: block; text-decoration-line: none;}
+a:hover {text-decoration-line: underline; }
+</style>
+</head>
+<body>
+<h1>Exercicio 7</h1>
+<ul>
+<a href="">link 1</a>
+<a href="">link 2</a>
+<a href="">link 3</a>
+</ul>
+</body>
+</html>

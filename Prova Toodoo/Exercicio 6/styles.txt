@@ -1,0 +1,2 @@
+#lista li {text-decoration-line: underline; }
+#lista li:last-child {text-decoration-line:none; }

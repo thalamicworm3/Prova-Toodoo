@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Exercicio 6</h1>
+<ul id="lista">
+<li>Teste</li>
+<li>Lista</li>
+<li>Com ultimo item</li>
+<li>Sem linha na sua base</li>
+<li>E com arquivo externo css</li>
+</ul>
+</body>
+</html>

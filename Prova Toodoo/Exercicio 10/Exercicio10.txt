@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Exercicio 10</h1>
+<p id="texto">Qual o sabor?</p>
+<script>
+var sorvete = "chocolate";
+if (sorvete === "chocolate") {
+	alert("Amo sorvete de chocolate");
+ 	document.getElementById('texto').innerText = "Pelo jeito voce ama sorvete de chocolate!"
+}
+else {
+	alert("Prefiro outros sabores");
+ 	document.getElementById('texto').innerText = "Pelo jeito voce prefere outros sabores..."
+}
+</script>
+</body>
+</html>

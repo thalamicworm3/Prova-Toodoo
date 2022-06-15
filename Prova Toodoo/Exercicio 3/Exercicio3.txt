@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function alerta()
+{
+    alert("Alerta do Navegador");
+}
+</script>
+</head>
+<body>
+<h1>Exercicio 3</h1>
+<a href="" onclick="alerta()">Link a ser clicado</a>
+</body>
+</html>
